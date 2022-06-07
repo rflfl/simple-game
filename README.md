@@ -1,2 +1,2 @@
 # simple-game
-Game desenvolvido com html, CSS e javascript
+The jump Mario Game desenvolvido com html, CSS e javascript
